@@ -1,0 +1,315 @@
+{
+  "keys": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+  "middleware": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+      "port": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+      "hostname": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+      "ignoreJSON": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+      "type": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "useSession": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "cookieName": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "sessionName": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "headerName": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "bodyName": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "queryName": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.local.js",
+      "maxAge": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "policy": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    }
+  },
+  "mysql": {
+    "client": {
+      "host": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+      "port": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+      "user": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+      "password": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+      "database": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js"
+    },
+    "app": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+    "agent": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+    "default": {
+      "database": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+      "connectionLimit": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js",
+    "allowMethods": "D:\\webpack\\day2.20zuoye\\vueserver\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "key": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "encrypt": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
+      "development": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fields": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "files": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "fastReady": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "env": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "name": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "cookies": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "proxy": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "ipHeaders": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "hostHeaders": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "version": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "description": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "private": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-cors": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-mysql": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-scripts": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "svg-captcha": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "autod-egg": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-bin": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-ci": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-mock": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "stop": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "dev": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "debug": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "test": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "test-local": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "cov": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "lint": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "ci": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "autod": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "url": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "author": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "license": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "baseDir": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "HOME": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "rundir": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "notFound": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "sitefile": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "middlewares": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "httpClient": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "encoding": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "formLimit": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "jsonLimit": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "textLimit": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "strict": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "depth": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "parameterLimit": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "onerror": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "encoding": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "env": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "level": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "consoleLevel": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "outputJSON": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "buffer": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "appLogName": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "coreLogName": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "agentLogName": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "errorLogName": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxSockets": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxSockets": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "logging": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "serverTimeout": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "responseTimeout": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "D:\\webpack\\day2.20zuoye\\vueserver\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+}
