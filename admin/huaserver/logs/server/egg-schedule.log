@@ -1,0 +1,33 @@
+2020-03-07 00:01:09,056 INFO 15924 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-03-07 00:01:09,056 INFO 15924 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-03-07 00:01:09,056 INFO 15924 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-03-07 00:02:16,233 INFO 20288 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-03-07 00:02:16,233 INFO 20288 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-03-07 00:02:16,233 INFO 20288 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-03-07 00:02:51,965 INFO 16820 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-03-07 00:02:51,965 INFO 16820 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-03-07 00:02:51,965 INFO 16820 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-03-07 00:09:48,333 INFO 14556 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-03-07 00:09:48,333 INFO 14556 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-03-07 00:09:48,333 INFO 14556 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-03-07 08:28:49,907 INFO 1008 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-03-07 08:28:49,907 INFO 1008 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-03-07 08:28:49,907 INFO 1008 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-03-07 08:31:04,602 INFO 15396 [Timer] F:\huaserver\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 71935400ms at 2020-03-08 04:30:00.002
+2020-03-07 08:31:04,602 INFO 15396 [Timer] F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js next time will execute after 55735398ms at 2020-03-08 00:00:00.000
+2020-03-07 08:31:04,602 INFO 15396 [Timer] F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 55736398ms at 2020-03-08 00:00:01.000
+2020-03-07 08:31:04,339 INFO 15464 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-03-07 08:31:04,339 INFO 15464 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-03-07 08:31:04,339 INFO 15464 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-03-07 09:06:22,509 INFO 8188 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-03-07 09:06:22,509 INFO 8188 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-03-07 09:06:22,510 INFO 8188 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-03-07 09:07:13,466 INFO 7204 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-03-07 09:07:13,466 INFO 7204 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-03-07 09:07:13,466 INFO 7204 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-03-07 10:03:49,989 INFO 16796 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-03-07 10:03:49,989 INFO 16796 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-03-07 10:03:49,989 INFO 16796 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js
+2020-03-07 10:03:52,816 INFO 17104 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-multipart@2.10.1@egg-multipart\app\schedule\clean_tmpdir.js
+2020-03-07 10:03:52,816 INFO 17104 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\clean_log.js
+2020-03-07 10:03:52,816 INFO 17104 [egg-schedule]: register schedule F:\huaserver\server\node_modules\_egg-logrotator@3.1.0@egg-logrotator\app\schedule\rotate_by_file.js

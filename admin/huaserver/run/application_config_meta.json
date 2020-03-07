@@ -1,0 +1,314 @@
+{
+  "keys": "F:\\huaserver\\server\\config\\config.default.js",
+  "middleware": "F:\\huaserver\\server\\config\\config.default.js",
+  "multipart": {
+    "mode": "F:\\huaserver\\server\\config\\config.default.js",
+    "autoFields": "F:\\huaserver\\server\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\huaserver\\server\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\huaserver\\server\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\huaserver\\server\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fields": "F:\\huaserver\\server\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fileSize": "F:\\huaserver\\server\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "files": "F:\\huaserver\\server\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "F:\\huaserver\\server\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "whitelist": "F:\\huaserver\\server\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "tmpdir": "F:\\huaserver\\server\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "F:\\huaserver\\server\\node_modules\\_egg-multipart@2.10.1@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "security": {
+    "csrf": {
+      "enable": "F:\\huaserver\\server\\config\\config.default.js",
+      "ignoreJSON": "F:\\huaserver\\server\\config\\config.default.js",
+      "type": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "useSession": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "cookieName": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "sessionName": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "headerName": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "bodyName": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "queryName": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "refererWhiteList": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.local.js",
+      "maxAge": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "value": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "policy": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js",
+      "checkAddress": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+    }
+  },
+  "cluster": {
+    "listen": {
+      "path": "F:\\huaserver\\server\\config\\config.default.js",
+      "port": "F:\\huaserver\\server\\config\\config.default.js",
+      "hostname": "F:\\huaserver\\server\\config\\config.default.js"
+    }
+  },
+  "mysql": {
+    "client": {
+      "host": "F:\\huaserver\\server\\config\\config.default.js",
+      "port": "F:\\huaserver\\server\\config\\config.default.js",
+      "user": "F:\\huaserver\\server\\config\\config.default.js",
+      "password": "F:\\huaserver\\server\\config\\config.default.js",
+      "database": "F:\\huaserver\\server\\config\\config.default.js"
+    },
+    "app": "F:\\huaserver\\server\\config\\config.default.js",
+    "agent": "F:\\huaserver\\server\\config\\config.default.js",
+    "default": {
+      "database": "F:\\huaserver\\server\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+      "connectionLimit": "F:\\huaserver\\server\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "F:\\huaserver\\server\\config\\config.default.js",
+    "allowMethods": "F:\\huaserver\\server\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "F:\\huaserver\\server\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "key": "F:\\huaserver\\server\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\huaserver\\server\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "encrypt": "F:\\huaserver\\server\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "F:\\huaserver\\server\\node_modules\\_egg-security@2.7.1@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "F:\\huaserver\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\huaserver\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\huaserver\\server\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "F:\\huaserver\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\huaserver\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "F:\\huaserver\\server\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "F:\\huaserver\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\huaserver\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\huaserver\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\huaserver\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "F:\\huaserver\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\huaserver\\server\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "F:\\huaserver\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "F:\\huaserver\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js",
+      "development": "F:\\huaserver\\server\\node_modules\\_egg-watcher@3.1.0@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "F:\\huaserver\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
+      "file": "F:\\huaserver\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "F:\\huaserver\\server\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "F:\\huaserver\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\huaserver\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "fastReady": "F:\\huaserver\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\huaserver\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js",
+    "overrideDefault": "F:\\huaserver\\server\\node_modules\\_egg-development@2.4.3@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "F:\\huaserver\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "F:\\huaserver\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\huaserver\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\huaserver\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\huaserver\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\huaserver\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\huaserver\\server\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "F:\\huaserver\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "F:\\huaserver\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "F:\\huaserver\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "F:\\huaserver\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "F:\\huaserver\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\huaserver\\server\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "F:\\huaserver\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "F:\\huaserver\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\huaserver\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\huaserver\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": "F:\\huaserver\\server\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+  },
+  "env": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "name": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "cookies": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "proxy": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "maxIpsCount": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "maxProxyCount": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "ipHeaders": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "hostHeaders": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "version": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "description": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "private": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "egg": {
+      "declarations": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "dependencies": {
+      "egg": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-cors": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-mysql": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-scripts": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "autod": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "autod-egg": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-bin": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-ci": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "egg-mock": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "eslint-config-egg": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "engines": {
+      "node": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "scripts": {
+      "start": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "stop": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "dev": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "debug": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "test": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "test-local": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "cov": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "lint": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "ci": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "autod": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "ci": {
+      "version": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "repository": {
+      "type": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "url": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "author": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "license": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "baseDir": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "HOME": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "rundir": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "notFound": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "sitefile": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "middlewares": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "httpClient": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "encoding": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "formLimit": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "jsonLimit": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "textLimit": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "strict": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "depth": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "parameterLimit": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "onerror": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "encoding": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "env": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "level": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "consoleLevel": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "outputJSON": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "buffer": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "appLogName": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "coreLogName": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "agentLogName": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "errorLogName": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxSockets": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxSockets": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "logging": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "serverTimeout": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+  "clusterClient": {
+    "maxWaitTime": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js",
+    "responseTimeout": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+  },
+  "onClientError": "F:\\huaserver\\server\\node_modules\\_egg@2.26.0@egg\\config\\config.default.js"
+}
